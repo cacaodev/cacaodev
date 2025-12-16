@@ -5,8 +5,3 @@
 └─ [Alke Wallet](https://github.com/cacaodev/AlkeWallet)  — *Proyecto de curso (billetera virtual)*<br>
 └─ [Veterinanai](https://veterinanai.blogspot.com/)  — *Blog de veterinaria*<br>
 └─ BunnyBot ♡ — *Bot multipropósito de Discord*
-
-## ☁️ Redes Sociales & Contacto
-[![Email](https://img.shields.io/badge/%20-A8C2F0?style=flat&logo=gmail&logoColor=white)](mailto:camis.ym@gmail.com)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/%20-A8C2F0?logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/camila-yanez-morena/)
-[![Instagram](https://img.shields.io/badge/%20-A8C2F0?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/pastelxngel/)
