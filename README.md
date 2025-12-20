@@ -4,4 +4,3 @@
 **Actualmente trabajando en:**<br>
 └─ [Alke Wallet](https://github.com/cacaodev/AlkeWallet)  — *Proyecto de curso (billetera virtual)*<br>
 └─ [Veterinanai](https://veterinanai.blogspot.com/)  — *Blog de veterinaria*<br>
-└─ BunnyBot ♡ — *Bot multipropósito de Discord*
